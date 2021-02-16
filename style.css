@@ -21,13 +21,22 @@ body {
 }
 
 
+<<<<<<< HEAD
 #footer {  width: 100%;
+=======
+#footer {
+  width: 100%;
+>>>>>>> development-1.0
   height: 50px;
   line-height: 50px;
   background-color: burlywood;
   text-align: center;
   color: white;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> development-1.0
 #header {
 >>>>>>> development-1.0
   width: 100%;
